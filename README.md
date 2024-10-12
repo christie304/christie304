@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## GitHub 
-
 [![GitHub Foundations Badge](https://christie.technology/assets/img/credly-github-foundations.png)](https://www.credly.com/badges/ed0a46c0-d3e3-43a1-aa29-9ce3441f21d5)  
 
 
