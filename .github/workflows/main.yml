@@ -1,0 +1,8 @@
+            - name: Credly Badges
+  # You may pin to the exact commit or the version.
+  # uses: mikejoh/credly-badges@74ead066e192643000f94e52a962587b5147f277
+  uses: mikejoh/credly-badges@0.4.1
+  with:
+    # Credly username
+    CREDLY_USERNAME: christie-trent # optional, default is ${{ github.actor }}
+          
