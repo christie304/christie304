@@ -1,9 +1,11 @@
-
-
-### I love code and plants. 🌱 
-### I joined GitHub on **December 18, 2014**! ⚡
+- ⚡ I joined GitHub on **December 18, 2014**! 
+- 👩🏻‍💻 I’m currently Github Foundations Certified
+- 🏃🏻‍♀️ I’m will be taking the Certified GitHub Actions exam this month.
+- 🌿 I am currently a certified Plant-Based Nutritionist
 
 [![GitHub Foundations Badge](https://christie.technology/assets/img/credly-github-foundations.png)](https://www.credly.com/badges/ed0a46c0-d3e3-43a1-aa29-9ce3441f21d5)  
+
+
 
 
 
