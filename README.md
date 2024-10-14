@@ -13,9 +13,12 @@
       </a>
 </td>
   </tr>
-  
+  <tr>
+    <td colspan="2"></td>
+  </tr>
 </table>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christie304&show_icons=true)](https://github.com/christie304/github-readme-stats)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
