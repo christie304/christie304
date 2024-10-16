@@ -1,11 +1,11 @@
 <table style="border:0" align="center">
   <tr>
-    <td>⚡ Vibe Check ⚡<br>
-      Joined GitHub in December 2014<br>
-      First fork in 2015<br>
-      First repo in 2016<br>
-      Github Foundations Certified in 2024<br>
-      First Github Universe in 2024 
+    <td>⚡ Vibes ⚡<br>
+      Joined GitHub: 2014<br>
+      First fork: 2015<br>
+      First repo: 2016<br>
+      Github Foundations Certified:  2024<br>
+      First Github Universe: 2024 
     </td>
     <td rowspan="3" align="center">
      <a href="https://www.credly.com/badges/ed0a46c0-d3e3-43a1-aa29-9ce3441f21d5">
