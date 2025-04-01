@@ -9,7 +9,7 @@
     </td>
     <td rowspan="3" align="center">
      <a href="https://www.credly.com/badges/ed0a46c0-d3e3-43a1-aa29-9ce3441f21d5">
-        <img src="https://christie.technology/assets/img/credly-github-foundations.png" alt="GitHub Foundations Badge" style="width:70%;">
+        <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Badge" style="width:70%;">
       </a>
 </td>
   </tr>
