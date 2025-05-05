@@ -6,7 +6,9 @@
       First repo: 2016<br>
       Github Foundations Certified:  2024<br>
       <br>
-      Currently obsessed with: Local/private LLM with Ollama and Stable Diffusion, local private smart home with Home Assistant.
+      Currently obsessed with: <br>
+      Local/private LLM with Ollama and Stable Diffusion, <br>
+      Local private smart home with Home Assistant.
     </td>
     <td rowspan="3" align="center">
      <a href="https://www.credly.com/badges/ed0a46c0-d3e3-43a1-aa29-9ce3441f21d5">
