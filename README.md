@@ -1,14 +1,13 @@
 <table style="border:0" align="center">
   <tr>
-    <td>⚡ Vibes ⚡<br>
-      Joined: 2014<br>
-      First fork: 2015<br>
-      First repo: 2016<br>
-      Github Foundations Certified:  2024<br>
+    <td>
+      ⚡.Net/C#, Coldfusion Developer⚡ <br><br>
+      ⚡Joined 2014⚡Forked 2015<br>
+      ⚡Created 2016⚡Foundations 2024 <br>
       <br>
       Currently obsessed with: <br>
-      Local/private LLM with Ollama and Stable Diffusion, <br>
-      Local private smart home with Home Assistant.
+      Local/private AI/LLM, Ollama, Stable Diffusion, <br>
+      Local private smart home / Home Assistant.<br><br>
     </td>
     <td rowspan="3" align="center">
      <a href="https://www.credly.com/badges/ed0a46c0-d3e3-43a1-aa29-9ce3441f21d5">
