@@ -7,7 +7,7 @@
       <br>
       Currently obsessed with: <br>
       Local/private AI/LLM, Ollama, Stable Diffusion, <br>
-      Local private smart home / Home Assistant.<br><br>
+      Local/private smart home, Home Assistant.<br><br>
     </td>
     <td rowspan="3" align="center">
      <a href="https://www.credly.com/badges/ed0a46c0-d3e3-43a1-aa29-9ce3441f21d5">
