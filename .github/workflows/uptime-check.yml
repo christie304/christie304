@@ -1,0 +1,19 @@
+name: Uptime Monitor
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch:
+
+jobs:
+  ping-server:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if server is up
+        run: |
+          URL="https://christie.technology"
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" $URL)
+          if [ "$STATUS" != "200" ]; then
+            echo "::error ::Server is DOWN - Status code: $STATUS"
+            exit 1
+          fi
