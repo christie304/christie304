@@ -40,12 +40,14 @@ Life isn't a puzzle, <em>it's a wave</em> - you have to go with the flow. The mo
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
+
 <!---# 📊 GitHub Stats:--->
 <!----![](https://github-readme-stats.vercel.app/api?username=christie304&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>---->
 <!----![](https://nirzak-streak-stats.vercel.app/?user=christie304&theme=dark&hide_border=false)<br/>--->
 <!-----------![](https://github-readme-stats.vercel.app/api/top-langs/?username=christie304&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-------->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=christie304&theme=dracula&hide_total_contributions=true)](https://git.io/streak-stats)
+
 
 <!---## 🏆 GitHub Trophies--->
 ![](https://github-profile-trophy.vercel.app/?username=christie304&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
