@@ -45,7 +45,7 @@ Life isn't a puzzle, <em>it's a wave</em> - you have to go with the flow. The mo
 <!----![](https://nirzak-streak-stats.vercel.app/?user=christie304&theme=dark&hide_border=false)<br/>--->
 <!-----------![](https://github-readme-stats.vercel.app/api/top-langs/?username=christie304&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-------->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=christie304&theme=dracula&hide_total_contributions=true)](https://git.io/streak-stats)
+<!---[![GitHub Streak](https://streak-stats.demolab.com?user=christie304&theme=dracula&hide_total_contributions=true)](https://git.io/streak-stats)--->
 
 
 <!---## 🏆 GitHub Trophies--->
