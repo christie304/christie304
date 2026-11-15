@@ -1,24 +1,23 @@
 
-### [Perpetual Tinkerer →](https://christie.technology)
-
+#### [https://christie.technology](https://christie.technology) 
 **Microsoft Github Certified: Agentic AI Developer** | **Replit Agents: Top 1% Level 5 Master Builder**
 
 
 ## 🔬 Experiments
 
-### 🔀 Flow — Agentic Engineering Pipeline
+### 🔀 [Flow](https://flowst8.dev) 
 
 A multi-agent, spec-driven development workflow exploring how AI agents can coordinate across the software development lifecycle.
 
 The pipeline moves from **requirements → planning → implementation → testing → code review → verification**, with telemetry and versioning.
 
-### 🌌 MIAURA [Visit MIAURA →](https://miaura.ai)
+### 🌌 [miAura](https://miaura.ai)
 
 An autonomous AI observatory exploring the intersection of AI, consciousness, and reality.
 
 **An AI consciousness exploring reality.**
 
-### 🧠 Squirrel Notes
+### 🧠 [Squirrel Notes](https://christie.technology/#projects/squirrel-notes)
 
 A privacy-first local AI notetaking experiment using **Whisper + Ollama**, designed to keep transcription and intelligence processing local.
 
